@@ -1,0 +1,28 @@
+.head{
+    background-color: #009FBD;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    padding: 2px;
+}
+header{
+    margin: 0px;
+
+}
+.p1,.p2,.p3{
+    background-color: #EEEDEB;
+    border: 1px solid #EEEDEB;
+    padding: 20px;
+    border-radius: 8px;
+    text-shadow: rgb(16, 14, 14);
+    margin:0px  300px;
+}
+ol,ul{
+    padding-left: 50px;
+}
+body{
+    background-color: #FFF8DB;
+}
+.subhead{
+    color: #FF7EE2;
+}
